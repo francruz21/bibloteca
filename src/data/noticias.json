@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Nueva Plataforma de Biblioteca Virtual",
+        "descripcion": "Descubre la nueva plataforma digital que ofrece acceso a una vasta colección de libros, artículos académicos, y recursos educativos desde cualquier lugar. Esta nueva herramienta facilita el acceso a la información de manera rápida y eficiente, con una interfaz amigable y fácil de usar para estudiantes y docentes.",
+        "imagen": "https://www.unsa.edu.ar/wp-content/uploads/2024/03/A6406715-01-1024x575.jpeg",
+        "enlace": "https://www.example.com/noticia1"
+    },
+    {
+        "id": 2,
+       "titulo": "Seminario sobre Recursos Virtuales",
+      "descripcion": "Participa en el seminario virtual sobre el uso de bibliotecas digitales para la investigación académica. En este seminario se explorarán las mejores prácticas para utilizar los recursos disponibles en la biblioteca digital de la universidad, incluyendo acceso a bases de datos, libros electrónicos, y revistas científicas. Es una oportunidad única para aprender de expertos y mejorar las habilidades de investigación.",
+        "imagen": "https://www.unsa.edu.ar/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-10-at-13.00.06-1024x576.jpeg",
+        "enlace": "https://www.example.com/noticia2"
+    },
+    {
+        "id": 3,
+        "titulo": "Acceso a Revistas Digitales",
+        "descripcion": "La biblioteca virtual ahora incluye una colección de revistas científicas en formato digital, disponible 24/7. Este acceso a publicaciones especializadas cubre diversas áreas del conocimiento y proporciona recursos valiosos para los estudiantes y profesionales de diversas disciplinas. El portal permite la descarga directa de artículos y la consulta online de números recientes y pasados.",
+        "imagen": "https://www.unsa.edu.ar/wp-content/uploads/2022/05/biblioteca-nueva.png",
+        "enlace": "https://www.example.com/noticia3"
+    }
+]

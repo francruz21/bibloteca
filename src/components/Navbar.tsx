@@ -23,11 +23,11 @@ const Navbar: React.FC = () => {
             <IoIosArrowDown className="ml-2" /> 
           </button>
           <ul className="absolute left-0 hidden space-y-4 bg-white text-blue-950 group-hover:block p-4 rounded-md shadow-lg transition-all duration-300 ease-in-out z-10">
-            <li><a href="#ciencias-economicas" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Cs Económicas</a></li>
-            <li><a href="#ciencias-exactas" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Cs Exactas</a></li>
+            <li><a href="https://biblioeco.unsa.edu.ar/webbibeco/" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Cs Económicas</a></li>
+            <li><a href="http://bibexa.unsa.edu.ar/" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Cs Exactas</a></li>
             <li><a href="#ciencias-salud" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Cs de la Salud</a></li>
             <li><a href="#ciencias-naturales" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Cs Naturales</a></li>
-            <li><a href="#humanidades" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Humanidades</a></li>
+            <li><a href="http://humani.unsa.edu.ar/biblioteca/" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Humanidades</a></li>
             <li><a href="#ingenieria" className="block hover:text-green-100-300 p-2 rounded-md transition-all duration-200">Ingeniería</a></li>
           </ul>
         </li>
